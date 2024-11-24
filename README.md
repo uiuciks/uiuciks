@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uiuciks
+- 👋 Hi, I’m Suci, my friends also call me Ucik. That's why I named my github uiuciks.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on website project
